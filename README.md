@@ -1,5 +1,4 @@
 ROS package for KUKA 2018 demo on the big screen
 ------------------------------------------------------------------
-Author: Laura Petrich
-Date: March 20, 2018
+Laura Petrich 2018
 ------------------------------------------------------------------
